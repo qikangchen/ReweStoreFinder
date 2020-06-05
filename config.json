@@ -1,0 +1,7 @@
+{
+   "driver": "chrome",
+   "driver_path": "/mnt/data/Projects/Programming/ReweStoreFinder/chromedriver",
+   "product_site": "https://shop.rewe.de/p/breyers-delights-peanut-butter-vegan-500ml/8295089",
+   "zip": "10625",
+   "max_stores": ""
+}
